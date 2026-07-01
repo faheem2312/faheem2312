@@ -10,8 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I completed my B.E. from L.D. College of Engineering and currently work as a Software Developer Intern at Vayunotics Technologies, where I build real-time UAV telemetry and ground control systems on C#/.NET. I previously worked as a Cybersecurity Intern with the Gujarat State Cyber Crime Cell, conducting OSINT investigations into dark web activity. My core stack spans Python, JavaScript/TypeScript, and C#, with hands-on experience across full-stack development, DevOps, and machine learning. I'm especially drawn to GenAI — building with LLMs, RAG pipelines, and prompt engineering — and I've applied this in projects like DivyaLink, a custom ground control station for autonomous UAV missions. Outside of work, I've won a drone payload delivery hackathon and was selected for Amazon's ML Summer School out of 80,000+ applicants. Feel free to reach out to me at mansurifaheem1111@gmail.com.
-<!-- I'm currently looking for full-time roles or internships in AI Engineering or Backend Engineering — feel free to reach out at **mansurifaheem1111@gmail.com**. -->
+I completed my B.E. from L.D. College of Engineering and currently work as a Software Developer Intern at Vayunotics Technologies, where I build real-time UAV telemetry and ground control systems on C#/.NET. I previously worked as a Cybersecurity Intern with the Gujarat State Cyber Crime Cell, conducting OSINT investigations into dark web activity. My core stack spans Python, JavaScript/TypeScript, and C#, with hands-on experience across full-stack development, DevOps, and machine learning. I'm especially drawn to GenAI — building with LLMs, RAG pipelines, and prompt engineering — and I've applied this in projects like DivyaLink, a custom ground control station for autonomous UAV missions. Outside of work, I've won a drone payload delivery hackathon and was selected for Amazon's ML Summer School out of 80,000+ applicants. I'm currently looking for full-time roles or internships in AI Engineering or Backend Engineering — feel free to reach out at **mansurifaheem1111@gmail.com**.
 
 <br>
 
@@ -104,5 +103,19 @@ I completed my B.E. from L.D. College of Engineering and currently work as a Sof
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=faheem2312&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=faheem2312&theme=vue-dark&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<br>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faheem2312/faheem2312/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faheem2312/faheem2312/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/faheem2312/faheem2312/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
