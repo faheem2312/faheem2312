@@ -99,10 +99,22 @@ I completed my B.E. from L.D. College of Engineering and currently work as a Sof
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=faheem2312&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=faheem2312&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=faheem2312&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=faheem2312&theme=default&hide_border=true&include_all_commits=true&count_private=false">
+  <img alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=faheem2312&theme=default&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=faheem2312&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=faheem2312&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+  <img alt="Top Langs" src="https://github-readme-stats.shion.dev/api/top-langs/?username=faheem2312&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+</picture>
 
-<img src="https://streak-stats.demolab.com/?user=faheem2312&theme=vue-dark&hide_border=true" alt="GitHub Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=faheem2312&theme=vue-dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=faheem2312&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=faheem2312&theme=default&hide_border=true"/>
+</picture>
 
 </div>
 
